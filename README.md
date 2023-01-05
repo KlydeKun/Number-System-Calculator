@@ -6,7 +6,10 @@ This project is for number system that you can calculate binary, octal, decimal 
 addition, subtraction, multiplication and division.
 
 **For Number System panel.**
+
 ![Number System](./design/number_system.png)
 
+
 **For Arithmetic Operation panel.**
+
 ![Arithmetic Operation](./design/arithmetic_operation.png)
